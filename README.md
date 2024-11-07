@@ -205,17 +205,10 @@ Downgrade your TensorFlowLiteC in /ios/Podfile.lock to 2.2.0
 run pod install in your /ios folder
 ```
   <br>
-6. Source code
 
-```
-please checkout repo github
-https://github.com/hiennguyen92/flutter_realtime_object_detection
-```
-  * <a href='https://github.com/hiennguyen92/flutter_realtime_object_detection'>https://github.com/hiennguyen92/flutter_realtime_object_detection</a>
 ## :bulb: Demo
 
-1. Demo Illustration: https://www.youtube.com/watch?v=__i7PRmz5kY&ab_channel=HienNguyen
-2. Image
+1. Image
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image1.jpg" width="250"></td>
